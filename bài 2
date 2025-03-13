@@ -1,0 +1,26 @@
+# include <stdio.h>
+
+int main(){
+int x;
+ scanf("%d", &x);
+ printf("hom nay la ngay: %d/", x );
+ int y;
+ scanf("%d", &y);
+ printf("%d/", y);
+ int z;
+ scanf("%d", &z);
+ printf("%d", z);
+ 
+  
+  
+  
+   
+ }	
+	
+	
+	   
+	  	    
+	  
+	
+
+
