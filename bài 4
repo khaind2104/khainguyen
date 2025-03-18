@@ -1,0 +1,13 @@
+# include <stdio.h>
+
+int main() {
+	float r, S, V;
+	
+	printf("nhap vao ban kinh hinh cau: ");
+    scanf("%f", &r);	
+    S = 4*3.14*r*r;
+    V = 4*r*r*r*/3;
+	printf("dien tich hinh cau la: %.2f\n", S);
+	printf("the tich hinh cau la: %.2f", V);
+		
+}
